@@ -1,0 +1,7 @@
+#Frontend
+crypto-js
+react-router-dom
+
+#Backend
+
+git clone --depth 1 https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
